@@ -1,0 +1,22 @@
+header{
+  text-align: left;
+  background: #008080;
+  padding: 20px 0px 20px 0px;
+}
+aside{
+  display: inline-block;
+  width: 30%;
+  background-color: yellow;
+  vertical-align: top;
+  margin: 0px;
+  padding: 10% 0% 10% 0%;
+}
+section{
+background-color: #00FFFF;
+display: inline-block;
+height: 25em;
+vertical-align: top;
+width: 68%;
+margin: 0%;
+padding: 50px 0px 50px 0px;
+}
